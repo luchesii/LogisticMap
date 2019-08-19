@@ -1,0 +1,4 @@
+scp a8040931@143.107.180.171:~/anaconda/scripts/esn_big_minstable_r3.9_x0.1_d1000.csv /home/ana/Documentos
+
+
+scp a8040931@143.107.180.175:~/codes/esn_big_minstable_r4_x0.1_d1000.csv /home/ana/Documentos
